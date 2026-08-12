@@ -1,8 +1,10 @@
- :mortar_board: Sou Luiz, formado em Engenharia de Software pela Estácio com mais de três anos de estudo com noções de linguagem C, JavaScript, Lua, React, Node, como também Git, Github e Banco de Dados SQL. Estou focado e pronto para minha primeira oportunidade na área de desenvolvimento web, vencendo desafios e aprendendo novas tecnologias.
+Sou formado em Engenharia de Software pela Estácio e busco minha primeira oportunidade profissional na área de desenvolvimento de software.
 
- :pencil2: Tenho também experiência na área de comunicação , com atuação em assessoria, produção e revisão de conteúdo, cobertura de eventos e participação de reuniões estratégicas de campanhas de transparência da instituição. Sou habilidoso em fotografia e edição de fotos e vídeos, além de manter e atualizar o mailling. Meu inglês é básico para intermediário com facilidade de leitura de documentações, faço curso de idiomas para melhorar. 
+Minha formação e estudos incluem JavaScript, React, Node.js, SQL, Git e GitHub, além de conhecimentos em C, Lua, HTML e CSS. Tenho interesse em desenvolvimento de software e programação e busco uma oportunidade como Desenvolvedor Júnior, onde possa aplicar meus conhecimentos, adquirir experiência profissional e continuar evoluindo tecnicamente.
 
- :trophy: Meu objetivo é integrar uma equipe de desenvolvimento web que valorize a colaboração, a criatividade e a qualidade.
+Antes da formação em Engenharia de Software, construí minha trajetória profissional na área de comunicação, com experiência em assessoria de comunicação, produção e revisão de conteúdo, cobertura de eventos, fotografia e edição de fotos e vídeos. Essa experiência também desenvolveu minha capacidade de comunicação, organização, trabalho em equipe e atenção aos detalhes.
+
+Meu objetivo é ingressar profissionalmente na área de desenvolvimento de software e construir minha carreira como programador, contribuindo com a equipe e evoluindo por meio da prática e de novos desafios.
 
 <!--
 **Francisconi-luizroberto/Francisconi-luizroberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
